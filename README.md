@@ -1,3 +1,4 @@
+
 # HELIOS - Heliophysics Event Learning & Intelligent Observation System
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -34,3 +35,7 @@ HELIOS provides:
 ---
 
 ## 🗂️ Project Structure
+=======
+# HELIOS-Space-Weather-Prediction
+Solar flare and space weather analytics using data warehousing, machine learning, and heliophysics datasets.
+
