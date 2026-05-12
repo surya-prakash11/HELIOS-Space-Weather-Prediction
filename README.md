@@ -32,6 +32,8 @@ HELIOS provides:
 4. **Pattern Discovery** - K-Means clustering and association rules
 5. **Interactive Dashboard** - Real-time space weather monitoring
 
+<img width="1900" height="852" alt="image" src="https://github.com/user-attachments/assets/93ede49d-e97d-47b6-a1f7-f2297f9c1a28" />
+
 ---
 
 ## 🗂️ Project Structure
